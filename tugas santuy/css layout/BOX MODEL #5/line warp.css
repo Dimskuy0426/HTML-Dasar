@@ -1,0 +1,16 @@
+div {
+    width: 600px;
+    margin: 10px auto;   
+}
+
+.satu {
+    background-color: darkorange;
+    padding: 10PX;
+    border:  5PX blanchedalmond;
+}
+
+.dua {
+    background-color: aquamarine;
+    padding: 30px;
+    border: 10px gold;
+}
